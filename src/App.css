@@ -1,0 +1,18 @@
+body {
+  background-color: #ffffff;
+}
+
+.test {
+  width: 10px;
+  height: 10px;
+  background-color: red;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
